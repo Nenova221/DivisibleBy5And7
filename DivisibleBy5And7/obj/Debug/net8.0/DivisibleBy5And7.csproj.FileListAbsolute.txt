@@ -1,0 +1,14 @@
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\bin\Debug\net8.0\DivisibleBy5And7.exe
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\bin\Debug\net8.0\DivisibleBy5And7.deps.json
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\bin\Debug\net8.0\DivisibleBy5And7.runtimeconfig.json
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\bin\Debug\net8.0\DivisibleBy5And7.dll
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\bin\Debug\net8.0\DivisibleBy5And7.pdb
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\DivisibleBy5And7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\DivisibleBy5And7.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\DivisibleBy5And7.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\DivisibleBy5And7.csproj.CoreCompileInputs.cache
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\DivisibleBy5And7.dll
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\refint\DivisibleBy5And7.dll
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\DivisibleBy5And7.pdb
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\DivisibleBy5And7.genruntimeconfig.cache
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7\obj\Debug\net8.0\ref\DivisibleBy5And7.dll

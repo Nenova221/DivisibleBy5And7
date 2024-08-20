@@ -1,0 +1,6 @@
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_DivisibleBy5And7Test
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7Tests\obj\Debug\net8.0\DivisibleBy5And7Test.csproj.AssemblyReference.cache
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7Tests\obj\Debug\net8.0\DivisibleBy5And7Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7Tests\obj\Debug\net8.0\DivisibleBy5And7Test.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7Tests\obj\Debug\net8.0\DivisibleBy5And7Test.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\DivideBy5And7\DivideBy5And7Tests\obj\Debug\net8.0\DivisibleBy5And7Test.csproj.CoreCompileInputs.cache
